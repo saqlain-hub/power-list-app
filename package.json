@@ -1,5 +1,4 @@
 {
-  "homepage": "http://saqlain-hub.github.io/power-list-app",
   "name": "power-list-app",
   "private": true,
   "version": "0.0.0",
@@ -11,8 +10,6 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0"
   },
